@@ -20,7 +20,7 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 | Country  | Athlete's Country (29 Country) |
 | Continent  | Athlete's Continent (Asia, Europe, Pan Am, Oceania) |
 | Hand  | Dominant Athlete's Hand (Right, Left) |
-| Medals  | Athlete's count of medals from major event  |
+| Medals  | Athlete's count of gold medals from major event  |
 | HRank  | Athlete's World Ranking |
 | Multiple  | Athlete's Doubles Status (1 = Yes \| 0 = No)  |
 | Career  | Athlete's count of Winning  |
