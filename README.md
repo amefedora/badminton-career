@@ -24,3 +24,13 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 | HRank  | Athlete's World Ranking |
 | Multiple  | Athlete's Doubles Status (1 = Yes \| 0 = No)  |
 | Career  | Athlete's count of Winning  |
+
+# Work Flow
+1. Data Preparation
+2. Explanatory Data Analysis (EDA)
+3. Develop Statistical Model
+4. Statistical Model Election
+5. Statistical Model Diagnose
+6. Statistical Model Transformation
+
+# Data Preparation
