@@ -13,7 +13,11 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 | Age  | Athlete's Age  |
 | Height  | Athlete's Height  |
 | Gender  | Athlete's Gender (F = Female \| M = Male) |
-| Category  | Athlete's Category |
+| Category  | Athlete's Category MS = Men’s Singles (Tunggal Putra)
+WS = Women’s Singles (Tunggal Putri)
+MD = Men’s Doubles (Ganda Putra)
+WD = Women’s Doubles (Ganda Putri)
+XD = Mixed Doubles (Ganda Campuran) |
 | Country  | Athlete's Country |
 | Continent  | Athlete's Continent  |
 | Hand  | Dominant Athlete's Hand  |
