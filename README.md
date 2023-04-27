@@ -27,10 +27,13 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 
 # Work Flow
 1. Data Preparation
-2. Explanatory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
 3. Develop Statistical Model
 4. Statistical Model Election
 5. Statistical Model Diagnose
 6. Statistical Model Transformation
 
 # Data Preparation
+- Library import
+- Treat missing values
+- Handling correct values
