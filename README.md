@@ -9,13 +9,15 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 
 | Attribute/Column  | Description |
 | ------------- | ------------- |
-| Name  | Content Cell  |
-| Age  | Content Cell  |
-| Height  | Content Cell  |
-| Gender  | Content Cell  |
-| Category  | Content Cell  |
-| Country  | Content Cell  |
-| Continent  | Content Cell  |
-| Hand  | Content Cell  |
-| Medals  | Content Cell  |
-| HRank  | Content Cell  |
+| Name  | Athlete's Full Name  |
+| Age  | Athlete's Age  |
+| Height  | Athlete's Height  |
+| Gender  | Athlete's Gender  |
+| Category  | Athlete's Category |
+| Country  | Athlete's Country |
+| Continent  | Athlete's Continent  |
+| Hand  | Dominant Athlete's Hand  |
+| Medals  | Athlete's count of medals from major event  |
+| HRank  | Athlete's World Ranking |
+| Multiple  | Athlete's Doubles Status  |
+| Career  | Athlete's count of Winning  |
