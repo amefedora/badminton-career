@@ -5,4 +5,17 @@ Badminton is one of the most popular sports in the world. Badminton World Federa
 Programming Language Tools: R
 
 # Dataset
-BWFPlayers19.csv have 313 record of active international badminton athlete's in 2019.
+BWFPlayers19.csv have 313 record of active international badminton athlete's in 2019 with 12 attributes.
+
+| Attribute/Column  | Description |
+| ------------- | ------------- |
+| Name  | Content Cell  |
+| Age  | Content Cell  |
+| Height  | Content Cell  |
+| Gender  | Content Cell  |
+| Category  | Content Cell  |
+| Country  | Content Cell  |
+| Continent  | Content Cell  |
+| Hand  | Content Cell  |
+| Medals  | Content Cell  |
+| HRank  | Content Cell  |
