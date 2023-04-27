@@ -1,4 +1,5 @@
-# badminton-career
+# Determine Badminton Career Supporting Factor
+
 Determining the best statistical model to determine career supporting factors for badminton players
 
 Method : Linear Regression 
