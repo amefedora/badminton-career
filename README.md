@@ -12,9 +12,7 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 | Name  | Athlete's Full Name |
 | Age  | Athlete's Age  |
 | Height  | Athlete's Height  |
-| Gender  | Athlete's Gender 
-F = Female
-M = Male |
+| Gender  | Athlete's Gender (F = Female \| M = Male) |
 | Category  | Athlete's Category |
 | Country  | Athlete's Country |
 | Continent  | Athlete's Continent  |
