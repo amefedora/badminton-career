@@ -54,3 +54,10 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 
 # Exploratory Data Analysis (EDA)
 ## Univariate Analysis
+![image](https://user-images.githubusercontent.com/65814424/234754303-763904f1-824a-4a49-95cd-d9cff4af83b3.png)
+
+
+
+## Bivariate Analysis
+
+
