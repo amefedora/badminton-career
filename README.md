@@ -37,4 +37,7 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 - Library import
 - Treat missing values
   ![Screenshot 2023-04-27 101643](https://user-images.githubusercontent.com/65814424/234750718-986a1152-e429-4e55-9c47-200e62617dac.png)
+  
+  ![Screenshot 2023-04-27 101801](https://user-images.githubusercontent.com/65814424/234750876-bb1aa03a-935c-492f-a75a-e3b211d1d5c7.png)
+
 - Handling incorrect values
