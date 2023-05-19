@@ -72,5 +72,7 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 
 
 ## Bivariate Analysis
+| ![Scatter Plot Height and Age](https://github.com/amefedora/badminton-career/assets/65814424/629af0be-4057-4ab6-b526-0e65c6088881) |  |![Scatter Plot Height and Age](https://github.com/amefedora/badminton-career/assets/65814424/5edd22d9-4d0b-45b6-8641-f37129daeb3e) |
+| ---------------------- | ---------------------- |
 
 
