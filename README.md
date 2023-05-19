@@ -57,11 +57,13 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 # Exploratory Data Analysis (EDA)
 ## Univariate Analysis
 
-
-| ---------------------- | ---------------------- |
 | ![Bar Chart of Athletes Hand Use](https://user-images.githubusercontent.com/65814424/234801218-552abf00-4556-4de2-94d2-6e2a4b664503.png) | ![Gender Pie Chart](https://user-images.githubusercontent.com/65814424/234800629-d94b2c45-7648-4a93-8f91-0199e692d9b8.png) |
 | ---------------------- | ---------------------- |
 |    ![Bar Chart of Player Category](https://user-images.githubusercontent.com/65814424/234821205-07355b28-893a-4b74-a85d-e228a9a0979c.png) |![Histogram of Athlete's Rank](https://github.com/amefedora/badminton-career/assets/65814424/418101fe-2c67-4016-8caf-c1cb20fb1ce5) |
+
+  Central Tendencies
+  
+  ![Central Tendency](https://github.com/amefedora/badminton-career/assets/65814424/2b0c5c44-e73c-4619-b842-f120e2a80829)
 
 
 ## Bivariate Analysis
