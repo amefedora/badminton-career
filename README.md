@@ -65,6 +65,10 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
   | Attribute | Min | 1st Quartile | Median | Mean | 3rd Quartile | Max |
   | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
   | Age  | 19.00 | 23.00 | 26.00 | 26.43 | 29.00 | 42.00 |
+  | Height | 154.0 | 167.0 | 172.0 | 173.6 | 180.0 | 197.0 |
+  | Medals | 0.000 | 0.000 | 2.000 | 3.725 | 5.000 | 22.000 |
+  | HRank | 1.00 | 4.00 | 10.00 | 14.98 | 22.00 | 70.00 |
+  | Career | 30.0 | 151.0 | 227.0 | 257.7 | 331.0 | 810.0 |
 
 
 ## Bivariate Analysis
