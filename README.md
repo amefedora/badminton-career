@@ -54,6 +54,19 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
   Incorrect values handling:
   - Search the right values in https://bwfbadminton.com/
 
+- Set nominal or categorical variable as a factor variable
+  - Gender
+  - Hand
+  - Category
+  - Continent
+  - Multiple
+  - Country
+  - Age
+  - Medals
+  - Height
+  - Career
+
+
 # Exploratory Data Analysis (EDA)
 ## Univariate Analysis
 
