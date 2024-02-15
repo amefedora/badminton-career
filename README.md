@@ -71,7 +71,6 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
 ## Univariate Analysis
 
 | ![Bar Chart of Athletes Hand Use](https://user-images.githubusercontent.com/65814424/234801218-552abf00-4556-4de2-94d2-6e2a4b664503.png) | ![Gender Pie Chart](https://user-images.githubusercontent.com/65814424/234800629-d94b2c45-7648-4a93-8f91-0199e692d9b8.png) |
-| ---------------------- | ---------------------- |
 | :-: | :-: |
 | The athletes with right hand use is more than the left hand use | There are slightly more male players than female players |
 | ---------------------- | ---------------------- |
