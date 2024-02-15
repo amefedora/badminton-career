@@ -92,6 +92,7 @@ From the attribute Summary we know that:
 ## Bivariate Analysis
 | ![Scatter Plot Height and Age](https://github.com/amefedora/badminton-career/assets/65814424/629af0be-4057-4ab6-b526-0e65c6088881) | ![Boxplot Age by Category](https://github.com/amefedora/badminton-career/assets/65814424/939b0c8e-0fd8-4a83-81ab-d0ba60fe2f60) |
 | :-: | :-: |
+| The older athletes likely to have a higher height | The oldest athlete's come from Men's Single Category |
 | ![Boxplot Height by Category](https://github.com/amefedora/badminton-career/assets/65814424/694a4bfd-7664-45c5-a343-cdb9a79f8ea2) |  |
 | Mixed Doubles category has widest range of Age than other categories |
 | ![Interaction Plot Career by Category x Continent](https://github.com/amefedora/badminton-career/assets/65814424/ee860eb5-7f89-4021-8222-bff133ac5f99) | ![Interaction Plot Career by Hand x Continent](https://github.com/amefedora/badminton-career/assets/65814424/b5d86d11-3dc5-4a16-912d-10f832211f80) |
