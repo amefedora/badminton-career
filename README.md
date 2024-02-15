@@ -85,7 +85,10 @@ BWFPlayers19.csv have 313 record of active international badminton athlete's in 
   | HRank | 1.00 | 4.00 | 10.00 | 14.98 | 22.00 | 70.00 |
   | Career | 30.0 | 151.0 | 227.0 | 257.7 | 331.0 | 810.0 |
 
-
+From the attribute Summary we know that:
+- The youngest Badminton athlete's is 19th years old and the oldest is 24th.
+- The highest athlete's height is 197.
+  
 ## Bivariate Analysis
 | ![Scatter Plot Height and Age](https://github.com/amefedora/badminton-career/assets/65814424/629af0be-4057-4ab6-b526-0e65c6088881) | ![Boxplot Age by Category](https://github.com/amefedora/badminton-career/assets/65814424/939b0c8e-0fd8-4a83-81ab-d0ba60fe2f60) |
 | ---------------------- | ---------------------- |
